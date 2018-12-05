@@ -1,0 +1,24 @@
+{
+  "name": "hello-",
+  "version": "1.0.0",
+  "description": "this is hello node.js",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "4.x"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisalisha/hello-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisalisha/hello-/issues"
+  },
+  "homepage": "https://github.com/harrisalisha/hello-#readme"
+}
